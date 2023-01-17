@@ -3,7 +3,10 @@
 The Movie Applicaion with moviedb api
 
 # UI
-![img_5fdf022906c84_1608450601](https://user-images.githubusercontent.com/63788675/202362072-1053b565-d4dd-4d05-8a60-7c750dfb8bce.png)
+
+<p float="left">
+  <img width="300" src="https://user-images.githubusercontent.com/63788675/202362072-1053b565-d4dd-4d05-8a60-7c750dfb8bce.png">
+</p>
 
 # teach-stack
 What have done with this project🤨?
