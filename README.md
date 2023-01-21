@@ -5,7 +5,9 @@ The Movie Applicaion with moviedb api
 # UI
 
 <p float="left">
-  <img width="300" src="https://user-images.githubusercontent.com/63788675/202362072-1053b565-d4dd-4d05-8a60-7c750dfb8bce.png">
+  <img  height="350" src="https://user-images.githubusercontent.com/63788675/202362072-1053b565-d4dd-4d05-8a60-7c750dfb8bce.png">
+  &nbsp;&nbsp;
+  <img height="350" src="https://media.giphy.com/media/LxrDbVzyBwX2kqeVBD/giphy.gif" >
 </p>
 
 # teach-stack
