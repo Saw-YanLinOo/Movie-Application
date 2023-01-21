@@ -26,7 +26,7 @@ Each layer do separate of concerns approach and loosely couple👀 see more belo
     - resourses (✨ constant component)
     - viewitems (✨ UI component)
     - widgets (✨ reuseable custom ui component)
-    - main 🌈
+    - main 🌈 
     
 ## Getting Started
   Want to try this project? 🤷🏽‍♂️
